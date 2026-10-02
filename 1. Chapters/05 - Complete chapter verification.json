@@ -1,0 +1,33 @@
+{
+  "chapter": 5,
+  "title": "The Reasons Enforcing Repentance with a Warning to the Impenitent",
+  "audio_file": "/home/user/audiobook/chapters/05 - The Reasons Enforcing Repentance with a Warning to the Impenitent - Complete.mp3",
+  "duration_seconds": 466.938776,
+  "script_segments": [
+    "05-01",
+    "05-02",
+    "05-03",
+    "05-04",
+    "05-05"
+  ],
+  "segments_expected": 5,
+  "segments_included": 5,
+  "starts_with_segment": "05-01",
+  "full_script_reconstruction_verified": true,
+  "complete_audio_decode_verified": true,
+  "source_ranges": [
+    {
+      "source_part": 8,
+      "source_file": "/home/user/audiobook/sections/05 - The Reasons Enforcing Repentance with a Warning to the Impenitent - Section 01.mp3",
+      "first_script": "05-01",
+      "last_script": "05-05",
+      "first_chunk": 1,
+      "last_chunk": 5,
+      "source_start_seconds": 0,
+      "source_end_seconds": 466.938776,
+      "audio_duration_seconds": 466.938776
+    }
+  ],
+  "source_installments_removed_after_complete_assembly": true,
+  "retained_complete_chapter_audio": "/home/user/audiobook/chapters/05 - The Reasons Enforcing Repentance with a Warning to the Impenitent - Complete.mp3"
+}
