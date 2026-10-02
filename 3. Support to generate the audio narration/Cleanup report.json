@@ -1,0 +1,39 @@
+{
+  "created_utc": "2026-10-02T02:57:58.860161+00:00",
+  "removed_file_count": 3,
+  "freed_bytes": 3745072,
+  "removed_files": [
+    {
+      "path": "/home/user/audiobook/sections/05 - The Reasons Enforcing Repentance with a Warning to the Impenitent - Section 01.mp3",
+      "bytes": 3736199,
+      "reason": "Superseded split recording; all narration retained in complete chapter masters"
+    },
+    {
+      "path": "/home/user/audiobook/Part 08 - Narration transcript.txt",
+      "bytes": 7046,
+      "reason": "Duplicate installment transcript; full and segmented chapter scripts retained"
+    },
+    {
+      "path": "/home/user/audiobook/batch-08.json",
+      "bytes": 1827,
+      "reason": "Completed batch plan; progress and source ranges retained in manifest"
+    }
+  ],
+  "retained_complete_chapters": {
+    "00": "/home/user/audiobook/chapters/00 - Epistle to the Reader.mp3",
+    "01": "/home/user/audiobook/chapters/01 - A Preliminary Discourse.mp3",
+    "02": "/home/user/audiobook/chapters/02 - Counterfeit Repentance.mp3",
+    "03": "/home/user/audiobook/chapters/03 - The Nature of True Repentance (1) - Complete.mp3",
+    "04": "/home/user/audiobook/chapters/04 - The Nature of True Repentance (2) - Complete.mp3",
+    "05": "/home/user/audiobook/chapters/05 - The Reasons Enforcing Repentance with a Warning to the Impenitent - Complete.mp3"
+  },
+  "next_position": {
+    "chapter_key": "06",
+    "chapter_title": "Powerful Motives to Repentance",
+    "chunk_index": 1,
+    "script_file": "/home/user/audiobook/scripts/06-01.txt"
+  },
+  "retained_original_uploads": true,
+  "retained_html_conversion": true,
+  "retained_all_narration_scripts": true
+}
