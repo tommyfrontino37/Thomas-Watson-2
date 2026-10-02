@@ -27,6 +27,3 @@ Choose the next internal batch number using `max(part["part"] for part in manife
 
 Original uploads, the requested HTML file, all complete/segmented narration scripts, and the active continuation utilities were retained. Preparation is already complete; do not reinitialize the progress manifest.
 
-## Chapter 6 synthesis paused
-
-Segments 06-01, 06-02, and 06-04–06-10 have been generated and decoded successfully. Segment 06-03 was blocked by the speech service’s content moderation and has no audio. Do not retry or route around the blocked request. Do not silently omit it or claim a complete/unabridged Chapter 6. Await the listener’s choice about an explicit omission notice or pausing this chapter. Reuse the nine existing FLAC clips; do not regenerate them. All original text remains available.
