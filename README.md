@@ -1,2 +1,2 @@
-# Thomas-Watson-2
-Sermon 1
+# Thomas-Watson
+Sermon 1 - Doctrine of Repentance
